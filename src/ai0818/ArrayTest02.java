@@ -12,6 +12,8 @@ public class ArrayTest02 {
                 System.out.print(arr1[i] + " + ");
             }else
                 System.out.print(arr1[i] + " = " + sum);
+
+
         }
     }
 }
