@@ -10,6 +10,7 @@ public class UserMethodTest1 {
         System.out.println("주사위 번호: " + diceNum);
     }
 
+
     public static void main(String[] args) {
         String[] userNameArr = {"사과","키위","복숭아","딸기","무화과","바나나"};
         for (int i = 0; i < userNameArr.length; i++) {

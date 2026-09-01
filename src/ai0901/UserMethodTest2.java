@@ -22,6 +22,7 @@ public class UserMethodTest2 {
         System.out.printf("%d + %d = %d", n1, n2, result);
 
 
+
         s1.close();
     }
 }

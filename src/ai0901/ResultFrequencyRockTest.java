@@ -43,6 +43,7 @@ public class ResultFrequencyRockTest {
         bWinFreq = Collections.frequency(Arrays.asList(resultArr),"B");
         noWinFreq = Collections.frequency(Arrays.asList(resultArr),"없음");
 
+
         System.out.println("컴퓨터 A가 승리한 횟수: "+ aWinFreq + "번");
         System.out.println("컴퓨터 B가 승리한 횟수: "+ bWinFreq + "번");
         System.out.println("컴퓨터 A와 B가 비긴 횟수: "+ noWinFreq + "번");

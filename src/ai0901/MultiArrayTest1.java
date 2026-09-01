@@ -19,6 +19,7 @@ public class MultiArrayTest1 {
             for (int j = 0; j < arr[i].length; j++) { // 열의 길이 만큼 반복
                 System.out.printf("%3d", arr[i][j]);
             }
+
             System.out.println();
         }
     }
