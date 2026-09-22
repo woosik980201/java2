@@ -1,11 +1,11 @@
-package ai0915;
+package ai0922;
 
 import java.io.BufferedReader;
-import java.io.FileReader;
 import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.IOException;
 
-public class FileReaderTest2 {
+public class LAB_AddLineNumber {
     public static void main(String[] args) {
         try {
             // File을 읽어오기 위한 입력스트림(InputStream) 생성
@@ -35,3 +35,6 @@ public class FileReaderTest2 {
         }
     }
 }
+
+
+
